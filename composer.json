@@ -1,0 +1,17 @@
+{
+    "name": "Reyycommerce",
+    "type": "project",
+    "description": "Web commerce dengan metode MVC",
+    "keywords": ["e-commerce", "toko online", "reyycommerce", "online shop", "web toko"],
+    "homepage": "https://reyycommerce.id",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reyy",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
